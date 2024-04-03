@@ -1,0 +1,7 @@
+remove song a
+remove song b
+remove artist a 
+
+insert song a<SEP>b
+remove song a 
+remove song b 

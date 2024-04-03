@@ -1,0 +1,10 @@
+print song 
+print artist 
+
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+
+print song
+print artist
+
+print graph
